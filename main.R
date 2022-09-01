@@ -3,7 +3,7 @@
 # teste pedro
 # setup 
 rm(list=ls())
-source("~/setup_elliott.R")
+source("C:\Users\drugo\OneDrive\Documentos\GitHub\world-cup-2018/setup_elliott.R")
 source("functions.R")
 library(magrittr)
 library(purrr)
